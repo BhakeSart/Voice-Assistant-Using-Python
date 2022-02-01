@@ -9,10 +9,10 @@ This is a Voice Assistant Developed using Python. It was developed as a Course P
 - <a href="https://pypi.org/project/pyttsx3/">Python Text-to-Speech (pyttsx3)</a>
 - <a href="https://pypi.org/project/SpeechRecognition/">Speech Recognition as sr</a>
 - <a href="https://pypi.org/project/pyjokes/">Pyjokes</a>
-- Datetime
-- Webbrowser
-- OS
-- Standard Mail Tranfer Protocol (smptlib)
+- <a href="https://docs.python.org/3/library/datetime.html">Datetime</a>
+- <a href="https://docs.python.org/3/library/webbrowser.html">Webbrowser</a>
+- <a href="https://docs.python.org/3/library/os.html">OS</a>
+- <a href="https://docs.python.org/3/library/smtplib.html">Standard Mail Tranfer Protocol (smptlib)</a>
 
 ## Features of This Project.
 
